@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#This is my Local Repo
+#This is my first React Project
 =======
 # React + Vite
 
