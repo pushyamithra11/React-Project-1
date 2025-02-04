@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#This is my first React Project 1
+#This is my first React Project 1 in the GitHub
 =======
 
 # React + Vite
